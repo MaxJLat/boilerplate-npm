@@ -1,6 +1,6 @@
 {
-	'author": "Maximilien Latura",
 	"name": "fcc-learn-npm-package-json",
+	'author": "Maximilien Latura",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
